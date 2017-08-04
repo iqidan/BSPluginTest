@@ -1,0 +1,2 @@
+# BSPluginTest
+Cordova plugin test
